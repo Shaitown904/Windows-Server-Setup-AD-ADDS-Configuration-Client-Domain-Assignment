@@ -2,7 +2,7 @@
 
 
 # Project Objectives
-Goal: Setup a windows server with AD and ADDS configurations so that the server is the domain controller. Configure and install a Windows 11 client and join it to the domain.
+Setup a windows server with AD and ADDS configurations so that the server is the domain controller. Configure and install a Windows 11 client and join it to the domain.
 
 # Project Steps 
 1. Install and Configure Windows server 2022
